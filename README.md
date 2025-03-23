@@ -10,6 +10,6 @@ This folder contains my work for Homework1 Assignment Q4-a.
 - [View HW1-Q4-a Folder](https://github.com/elifceydacetinkaya1/elifceydacetinkaya1.github.io/blob/main/HW1-Q4-a)
 - ### HW-Q4-b
 This folder contains my work for Homework1 Assignment Q4-b.
-- [View HW1-Q4-b Folder](https://github.com/elifceydacetinkaya1/elifceydacetinkaya1.github.io/blob/main/HW-Q4-b)
+- [View HW1-Q4-b Folder](https://github.com/elifceydacetinkaya1/elifceydacetinkaya1.github.io/blob/main/HW1-Q4-b)
 
 
