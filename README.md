@@ -1,7 +1,7 @@
 # elifceydacetinkaya1.github.io
 ### HW-Q2
-This folder contains my work for Homework Assignment Q2.
-- [View HW-Q2 Folder](https://github.com/elifceydacetinkaya1/elifceydacetinkaya1.github.io/blob/main/HW-Q2)
+This folder contains my work for Homework1 Assignment Q2.
+- [View HW1-Q2 Folder](https://github.com/elifceydacetinkaya1/elifceydacetinkaya1.github.io/blob/main/HW1-Q2)
 ### HW-Q3
 This folder contains my work for Homework Assignment Q3.
 - [View HW-Q3 Folder](https://github.com/elifceydacetinkaya1/elifceydacetinkaya1.github.io/blob/main/HW-Q3)
