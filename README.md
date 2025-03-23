@@ -7,7 +7,7 @@ This folder contains my work for Homework Assignment Q3.
 - [View HW-Q3 Folder](https://github.com/elifceydacetinkaya1/elifceydacetinkaya1.github.io/blob/main/HW-Q3)
 - ### HW-Q4-a
 This folder contains my work for Homework Assignment Q4-a.
-- [View HW-Q4-a Folder](https://github.com/elifceydacetinkaya1/elifceydacetinkaya1.github.io/blob/main/HW-Q2)
+- [View HW-Q4-a Folder](https://github.com/elifceydacetinkaya1/elifceydacetinkaya1.github.io/blob/main/HW-Q4-a)
 - ### HW-Q4-b
 This folder contains my work for Homework Assignment Q4-b.
 - [View HW-Q4-b Folder](https://github.com/elifceydacetinkaya1/elifceydacetinkaya1.github.io/blob/main/HW-Q2)
